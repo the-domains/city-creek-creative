@@ -1,6 +1,6 @@
 name: City Creek Creative
 favicon: null
-layout_spectrum: 0.5906609969679266
+layout_spectrum: 0.34854
 typography_spectrum: 0.2383182558696717
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#ffffff'
+    - '#6b8a8c'
+    - '#050e15'
+    - '#dbbf80'
+    - '#5ec4b6'
   brandStrength: 0.8356193639338017
-  lightness: 0.2970742266625166
+  lightness: 0.3125
   saturation: 0.6545794589910656
   rhythmicContrast: 0.06846060091629624
 purpose: []
