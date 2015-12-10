@@ -1,0 +1,28 @@
+name: City Creek Creative
+favicon: null
+layout_spectrum: 0.5906609969679266
+typography_spectrum: 0.2383182558696717
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.8356193639338017
+  lightness: 0.2970742266625166
+  saturation: 0.6545794589910656
+  rhythmicContrast: 0.06846060091629624
+purpose: []
